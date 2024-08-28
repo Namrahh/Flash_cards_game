@@ -1,0 +1,1 @@
+The Flash Card Game is designed to help players practice and improve their English and French vocabulary. It presents flash cards with words in one language and challenges players to select the correct translation. Ideal for language learners of all levels.
